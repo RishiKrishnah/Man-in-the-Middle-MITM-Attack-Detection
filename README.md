@@ -156,10 +156,6 @@ This project analyzes only TLS handshake metadata and does not decrypt encrypted
 
 ---
 
-## License
-MIT License
-
----
 
 ## Author
 Rishi Krishna  
